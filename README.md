@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Heonbyeong's github stats](https://github-readme-stats.vercel.app/api?username=Heonbyeong&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Heonbyeong's github stats](https://github-readme-stats.vercel.app/api?username=Heonbyeong&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
