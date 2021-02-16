@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Heonbyeong's github stats](https://github-readme-stats.vercel.app/api?username=Heonbyeong&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Heonbyeong's github stats](https://github-readme-stats.vercel.app/api?username=Heonbyeong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
