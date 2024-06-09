@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![병헌](https://github.com/Heonbyeong/Heonbyeong/assets/64366488/972661b2-4496-477e-84b0-6c2eb3876096)
+![병헌](https://github.com/Heonbyeong/Heonbyeong/assets/64366488/482e53e4-bf7e-441b-ba44-23c0623490d4)
+
 
 
 <!--
